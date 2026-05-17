@@ -1,0 +1,3 @@
+# Depi-Final-Project
+This project focuses on analyzing UK train ride data using Python. The process began with data preprocessing, including cleaning, handling missing values, and formatting the dataset for analysis. After preparing the data, various analytical techniques were applied to explore patterns and trends. Visualizations were created using Python libraries such as Matplotlib and Seaborn to better understand the data and present insights clearly. In the next phase, forecasting methods were used to predict future train ride trends based on historical data. Finally, an interactive dashboard was built using Tableau to summarize the analysis and highlight the most important findings in an accessible and visually appealing way.
+
