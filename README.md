@@ -99,11 +99,11 @@ Model: `RandomForestRegressor`
 
 ```bash
 UK_Train_Rides/
-│
-├── railway.csv
-├── outcome.csv
+│── data/
+│   ├── railway.csv
+│   └── outcome.csv
+|
 ├── UK_Train_Rides.ipynb
 ├── README.md
 ```
-
 ---
