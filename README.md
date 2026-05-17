@@ -102,7 +102,7 @@ UK_Train_Rides/
 │── data/
 │   ├── railway.csv
 │   └── outcome.csv
-|
+│
 ├── UK_Train_Rides.ipynb
 ├── README.md
 ```
